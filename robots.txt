@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /minswap/
+Sitemap: https://minswap.github.io/sitemap.xml
